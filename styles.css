@@ -19,7 +19,7 @@ html, body{
     height: 100vh;
     background-position: center;
     background-size:cover;
-    background-image: url('/home/old/g3393.png');
+    background-image: url('g3393.png');
     float: left;
 
  }
