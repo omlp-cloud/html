@@ -30,9 +30,9 @@ a:link{
 .mail{
         font-family: 'Encode Sans SC', sans-serif;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 12px;
     position: relative;
-    bottom: 10%;
+    top: 10%;
     float: right;
     color: black;
 }
