@@ -32,7 +32,8 @@ a:link{
     font-weight: 600;
     font-size: 12px;
     position: relative;
-    top: 10%;
+    top: 97%;
     float: right;
     color: black;
+    padding-right: 12px;
 }
