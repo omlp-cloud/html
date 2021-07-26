@@ -55,3 +55,8 @@ span{
 .con-box{
     float: right;
 }
+
+a{
+    padding:0;
+    margin: 0;
+}
