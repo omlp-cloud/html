@@ -15,6 +15,7 @@ background-position: center;
 background-image: url("g4052.png");
 background-size: cover;
 float: left;
+position: absolute;
 }
 
 .colorss{
@@ -24,4 +25,14 @@ float: left;
 
 a:link{
     color: white;
+}
+
+.mail{
+        font-family: 'Encode Sans SC', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    position: relative;
+    bottom: 10%;
+    float: right;
+    color: black;
 }
