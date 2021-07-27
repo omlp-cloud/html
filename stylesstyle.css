@@ -60,3 +60,14 @@ a{
     padding:0;
     margin: 0;
 }
+
+
+.notices{
+        font-family: 'Share Tech Mono', monospace;
+}
+
+.noticesalt{
+        font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'IBM Plex Mono', monospace;
+}
+   
