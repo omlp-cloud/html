@@ -71,3 +71,6 @@ a{
     font-family: 'IBM Plex Mono', monospace;
 }
    
+.sideb{
+    position: relative;
+}
