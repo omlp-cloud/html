@@ -77,7 +77,7 @@ a{
     font-family: 'IBM Plex Mono', monospace;
     font-size: 12px;
     font-weight: 200;
-    display: none;
+
 }
 
 
@@ -92,4 +92,9 @@ li{
     font-weight: 200;
     margin-left: 10px;
     margin-top: 10px;
+}
+
+lh{
+           font-family: 'Nanum Gothic Coding', monospace !important;
+    font-size: 20px;
 }
