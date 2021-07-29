@@ -79,9 +79,15 @@ a{
     font-weight: 200;
 }
 
+
+ul{
+    margin-top: 20px;
+}
+
 li{
     font-family: 'IBM Plex Mono', monospace;
     font-size: 12px;
     font-weight: 200;
     margin-left: 10px;
+    margin-top: 10px;
 }
