@@ -1,3 +1,14 @@
+@media only screen and (max-width: 700px) {
+  li {
+    background-color: white;
+  }
+    
+ lh {
+     background-color: white;
+    }
+    
+}
+
 html, body{
     width: 100%;
     height: 100%;
